@@ -1,0 +1,4 @@
+# Core dependencies for TTS scripts
+google-genai
+groq
+python-dotenv==1.0.0
