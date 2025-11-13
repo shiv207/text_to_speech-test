@@ -1,1 +1,1 @@
-##simple medical assistant for testing gemini realtime
+#simple medical assistant for testing gemini realtime
